@@ -1,0 +1,5 @@
+{
+  "name": "NaxStore",
+  "description": "A modern, visually appealing e-commerce store front with a smooth login and signup experience. Built with React, TypeScript, and Tailwind CSS for a fast, responsive, and clean UI/UX.",
+  "requestFramePermissions": []
+}
